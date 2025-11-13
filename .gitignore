@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+heart_disease_env/
+venv/
+ENV/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
